@@ -1,7 +1,6 @@
 # Heart-Stroke-Prediction-project
-
-# Problem Statement
-What are the important factors in predicting strokes and how can hospitals/public health use this information to prevent strokes and help identify high risk people and let them know what to do if they experience a stroke.
+ 
+The Problem Statement is What are the important factors in predicting strokes and how can hospitals/public health use this information to prevent strokes and help identify high risk people and let them know what to do if they experience a stroke.
 https://www.stroke.org/en/about-stroke
 
 # Initial findings and thoughts behind it
